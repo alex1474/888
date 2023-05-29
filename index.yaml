@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  "888":
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-05-29T14:49:47.313388992+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 77636f3482073c584c3e2c1f543ba49f23c6301d42d63261eb1b668ab4080e73
+    name: "888"
+    type: application
+    urls:
+    - 888-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-05-29T14:49:47.312330634+03:00"
